@@ -4,3 +4,4 @@ __pycache__
 .env
 cert.crt
 cert.key
+media
